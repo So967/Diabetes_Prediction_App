@@ -2,7 +2,7 @@
 
 • 📌 Project Description
 
-  I have developed this Diabetes Prediction Web Application using:
+  We have developed this Diabetes Prediction Web Application using:
 
   - ✅ Streamlit for building the web interface  
   - 🐍 Spyder IDE for Python scripting and testing  
