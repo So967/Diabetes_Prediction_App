@@ -11,7 +11,7 @@ import streamlit as st
 
 
 # loading the saved model
-loaded_model=pickle.load(open('C:/Users/USER/OneDrive/Desktop/Machile Learning project/trained_model.sav','rb'))
+loaded_model=pickle.load(open('C:/Users/USER/OneDrive/Desktop/Machine Learning project/trained_model.sav','rb'))
 
 
 # creating a function for Prediction
