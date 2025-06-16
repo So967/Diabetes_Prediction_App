@@ -73,7 +73,7 @@ def main():
                           float(DiabetesPedigreeFunction), float(Age)]
             diagnosis = diabetes_prediction(user_input)
         except ValueError:
-            diagnosis = '⚠️ Please enter valid numeric values in all fields.'
+            diagnosis = 'Please enter valid numeric values in all fields.'
 
     st.success(diagnosis)
 
